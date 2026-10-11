@@ -1,8 +1,10 @@
 # Hi, I'm Pedro 👋
 
-Senior software engineer in Barcelona, ~14 years building web products end to
-end, leading while staying hands-on. These days my focus is AI done well:
-agentic features grounded in real signals that earn trust, not free-form output.
+Product-minded senior software engineer in Barcelona, 15+ years building web
+products end to end. Lately data visualization, log analytics, an AI chat
+assistant for observability data, and now bluebox.ai. These days my focus is AI
+done well: agentic features grounded in real signals that earn trust, not
+free-form output.
 
 (Depending on where we met, you might know me as Alejandro. Same person.)
 
